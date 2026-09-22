@@ -36,8 +36,8 @@ iv)Print the values of brand and price.
  ```
 /*
 Program to implement a Parameterized Constructor Using Java
-Developed by: Meenakshi Sundaram D
-RegisterNumber: 212222060145
+Developed by: Ameesha Jeffi
+RegisterNumber: 212223220007
 */
 ```
 
