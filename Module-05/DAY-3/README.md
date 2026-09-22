@@ -32,8 +32,8 @@ iv)Get and print the square using getSquare().
  ```
 /*
 Program to implement a Getter and Setter using Java
-Developed by: Meenakshi Sundaram D
-RegisterNumber: 212222060145
+Developed by: Ameesha Jeffi J
+RegisterNumber: 212223220007
 */
 ```
 
