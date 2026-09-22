@@ -21,8 +21,8 @@ To Create a Java program to implement super keyword in constructor.
  ```
 /*
 Program to implement a Constructor Chaining using Java
-Developed by: Meenakshi Sundaram D
-RegisterNumber: 212222060145
+Developed by: Ameesha Jeffi
+RegisterNumber: 212223220007
 */
 ```
 
