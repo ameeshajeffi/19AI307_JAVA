@@ -28,8 +28,8 @@ vi)Print the modified string.
  ```
 /*
 Program to implement a String Buffer using Java
-Developed by: Meenakshi Sundaram D
-RegisterNumber: 212222060145
+Developed by: Ameesha Jeffi J
+RegisterNumber: 212223220007
 */
 ```
 
