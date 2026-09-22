@@ -19,8 +19,8 @@ b.	Create an object of StringOperation and call separateCharacters() by passing 
  ```
 /*
 Program to implement a HAS-A RelationShip
-Developed by: Meenakshi Sundaram D
-RegisterNumber: 212222060145
+Developed by: Ameesha Jeffi J
+RegisterNumber: 212223220007
 */
 ```
 
