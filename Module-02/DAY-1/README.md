@@ -21,8 +21,8 @@ To create a java program for calculate cube of a number using static method.
  ```
 /*
 Program to implement a Static method using Java
-Developed by: Meenakshi Sundaram D
-RegisterNumber:  212222060145
+Developed by: Ameesha Jeffi J
+RegisterNumber:  212223220007
 */
 ```
 
